@@ -1,1 +1,1 @@
-let best = "Go Apple"
+let best = "Apple"
